@@ -15,7 +15,7 @@ from src.exception import CustomException  #need for handling exception
 from src.logger import logging  #to log activities 
 import os
 
-from src.utils import save_object  #good for saving the pickle file
+from src.utils import save_object  #good for saving the pickle
 
 #STEP 2
 
